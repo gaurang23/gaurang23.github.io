@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi there! My name is Gaurang (pronounced Gaw-rung). I graduated from the University of Waterloo with a Bachelor of Applied Science in Electrical Engineering. Currently, I am pursuining the Masters of Data Science at the University of British Columbia.
