@@ -1,0 +1,39 @@
+---
+title: "Resume"
+page-layout: full
+---
+
+```{=html}
+<section class="section" style="padding-top: 6rem; max-width: 700px;">
+  <div class="section-label">Resume</div>
+  <h2>Download or view.</h2>
+
+  <p style="color: var(--text-secondary); margin-bottom: 2.5rem; font-size: 1rem;">
+    Looking for something specific? Reach out over email or on LinkedIn.
+  </p>
+
+  <div style="display: flex; flex-direction: column; gap: 1rem; margin-bottom: 4rem;">
+
+    <div style="border: 1px solid var(--border); padding: 1.5rem 2rem; background: var(--bg-card); display: flex; justify-content: space-between; align-items: center;">
+      <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.25rem;">Gaurang Ahuja</div>
+      <div style="font-size: 0.9rem; color: var(--text-secondary);">Software engineer & data scientist with 7+ years of production experience</div>
+      <a href="Gaurang_Ahuja_Resume.pdf" download class="btn-primary-custom" style="white-space: nowrap; margin-left: 2rem;">↓ Download</a>
+    </div>
+
+  </div>
+
+  <p style="color: var(--text-muted); font-family: 'DM Mono', monospace; font-size: 0.72rem; letter-spacing: 0.05em;">
+    Last updated May 2026. For the most current version or to connect directly — 
+    <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent);">LinkedIn</a> 
+    is the best place.
+  </p>
+</section>
+
+<footer class="site-footer">
+  <span>© 2026 Gaurang Ahuja</span>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent); text-decoration: none;">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/gaurang23" style="color: var(--accent); text-decoration: none;">GitHub</a>
+</footer>
+```

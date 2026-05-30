@@ -4,19 +4,30 @@ project:
 
 website:
   title: "Gaurang Ahuja"
+  favicon: favicon.ico
   navbar:
+    background: "#1a1a1a"
+    foreground: "#f5f0e8"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gaurang-ahuja/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/gaurang23
+        aria-label: GitHub
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
-    toc: true
-
-
-
+    toc: false

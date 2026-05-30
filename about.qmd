@@ -1,5 +1,136 @@
 ---
-title: "About Me"
+title: "About"
+page-layout: full
 ---
 
-Hi there! My name is Gaurang (pronounced Gaw-rung). I graduated from the University of Waterloo with a Bachelor of Applied Science in Electrical Engineering. Currently, I am pursuining the Masters of Data Science at the University of British Columbia.
+```{=html}
+<section class="section" style="padding-top: 6rem;">
+  <div class="section-label">About Me</div>
+  <h2>The longer version.</h2>
+
+  <div class="about-grid">
+    <div class="about-text">
+      <p>
+        I'm Gaurang — pronounced <em style="color: var(--accent);">Gaw-rung</em>. 
+        I spent seven years building production software, and somewhere along the way 
+        I got genuinely curious about what happens when engineering meets machine learning. 
+        So I decided to find out properly, which is how I ended up at UBC doing a Master of Data Science.
+      </p>
+      <p>
+        My engineering background is in Java microservices, CI/CD, and keeping systems running 
+        under pressure. At UKG I grew from developer to lead, owning core services, 
+        modernizing infrastructure, and mentoring engineers along the way. 
+        Before that, Ericsson and Apple taught me what it means to care about 
+        correctness — I converted MATLAB prototypes to production C++ at Ericsson, 
+        and cut Wi-Fi test runtimes by over 70% at Apple.
+      </p>
+      <p>
+        What MDS has added is the ability to think statistically and work across the 
+        full ML stack — from wrangling messy data and training models to 
+        building reproducible pipelines and deploying interactive tools. 
+        I care about models that work in production, not just ones that 
+        look good in a notebook.
+      </p>
+      <p>
+        Right now I'm working on a capstone project with 
+        <strong>Educational Testing Service (ETS)</strong>, building an equity-focused 
+        education dashboard that processes over 1.7 million student records across 
+        80+ countries. It's the kind of work where the technical decisions 
+        actually matter for how policymakers understand global education outcomes.
+      </p>
+      <p style="color: var(--text-secondary); margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+        I'm based in Vancouver and open to ML/AI engineering and data science roles — 
+        hybrid or remote. If you're working on something interesting, 
+        <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent);">let's talk</a>.
+      </p>
+    </div>
+
+    <div>
+      <div class="about-stats" style="margin-bottom: 3rem;">
+        <div class="stat-item">
+          <div class="stat-number">7+</div>
+          <div class="stat-label">Years Production Engineering</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">3</div>
+          <div class="stat-label">Companies — UKG, Ericsson, Apple</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">MDS</div>
+          <div class="stat-label">UBC Master of Data Science, 2026</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">B.A.Sc</div>
+          <div class="stat-label">Electrical Engineering, Waterloo</div>
+        </div>
+      </div>
+
+      <div style="border: 1px solid var(--border); padding: 1.75rem; background: var(--bg-card);">
+        <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.25rem;">Technical Focus</div>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.4rem;">
+          <span class="tag">PyTorch</span>
+          <span class="tag">scikit-learn</span>
+          <span class="tag">LLMs</span>
+          <span class="tag">RAG</span>
+          <span class="tag">NLP</span>
+          <span class="tag">Computer Vision</span>
+          <span class="tag">Python</span>
+          <span class="tag">Java</span>
+          <span class="tag">Docker</span>
+          <span class="tag">Kubernetes</span>
+          <span class="tag">AWS</span>
+          <span class="tag">Statistical Modelling</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="section-divider" />
+
+<section class="section">
+  <div class="section-label">Experience</div>
+  <h2>Where I've been.</h2>
+  <div class="timeline">
+
+    <div class="timeline-item">
+      <div class="timeline-date">Sep 2025 – Jun 2026</div>
+      <div class="timeline-title">Master of Data Science — University of British Columbia</div>
+      <div class="timeline-sub">Vancouver, BC · Academic Student Representative</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-date">Oct 2019 – Aug 2025</div>
+      <div class="timeline-title">Lead Software Developer → Software Developer — UKG</div>
+      <div class="timeline-sub">Toronto, Canada (Hybrid) · Promoted twice over 6 years</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-date">Oct 2017 – Oct 2019</div>
+      <div class="timeline-title">Radio Software Developer — Ericsson</div>
+      <div class="timeline-sub">Ottawa, Canada</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-date">Sep – Dec 2016</div>
+      <div class="timeline-title">RF System Integration Engineering Intern — Apple</div>
+      <div class="timeline-sub">Cupertino, USA</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-date">2012 – 2017</div>
+      <div class="timeline-title">B.A.Sc. Electrical Engineering — University of Waterloo</div>
+      <div class="timeline-sub">Waterloo, ON · Dean's List · President's Scholarship · Exchange at NTU Singapore</div>
+    </div>
+
+  </div>
+</section>
+
+<footer class="site-footer">
+  <span>© 2026 Gaurang Ahuja</span>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent); text-decoration: none;">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/gaurang23" style="color: var(--accent); text-decoration: none;">GitHub</a>
+</footer>
+```
