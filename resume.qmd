@@ -7,9 +7,12 @@ page-layout: full
 <section class="section" style="padding-top: 6rem; max-width: 700px;">
   <div class="section-label">Resume</div>
   <h2>Download or view.</h2>
-  <p style="color: var(--text-secondary); margin-bottom: 2rem; font-size: 1rem;">
+  <p style="color: var(--text-secondary); margin-bottom: 0.75rem; font-size: 1rem;">
     Looking for something specific? Reach out on 
     <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent);">LinkedIn</a>.
+  </p>
+  <p style="color: var(--text-muted); font-family: 'DM Mono', monospace; font-size: 0.72rem; letter-spacing: 0.05em; margin-bottom: 2rem;">
+    Last updated May 2026 · PDF preview may not load in Safari — use the download button instead.
   </p>
   <a href="Gaurang_Ahuja_Resume.pdf" download class="btn-primary-custom" style="margin-bottom: 3rem; display: inline-block;">↓ Download PDF</a>
   <div style="margin-top: 2rem; border: 1px solid var(--border); border-radius: 2px; overflow: hidden;">

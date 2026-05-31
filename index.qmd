@@ -103,7 +103,7 @@ page-layout: full
 
   </div>
   <div style="margin-top: 2.5rem;">
-    <a href="projects.qmd" class="btn-secondary-custom">View all projects →</a>
+    <a href="https://github.com/gaurang23" class="btn-secondary-custom" target="_blank">View on GitHub →</a>
   </div>
 </section>
 

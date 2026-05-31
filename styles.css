@@ -155,7 +155,7 @@ main {
 
 .btn-primary-custom {
   font-family: 'DM Mono', monospace;
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   padding: 0.85rem 2rem;
@@ -195,7 +195,6 @@ main {
 
 .hero-image {
   flex-shrink: 0;
-  position: relative;
 }
 
 .hero-image img {
@@ -209,18 +208,6 @@ main {
   display: block;
   position: relative;
   z-index: 1;
-}
-
-.hero-image::before {
-  content: '';
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  right: -12px;
-  bottom: -12px;
-  border: 1px solid var(--border-accent);
-  border-radius: 2px;
-  z-index: 0;
 }
 
 /* ── Section layouts ── */
@@ -452,7 +439,7 @@ main {
 
 .project-link {
   font-family: 'DM Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 0.78rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--accent);
