@@ -202,9 +202,13 @@ main {
   width: 280px;
   height: 280px;
   object-fit: cover;
+  object-position: center top;
   border-radius: 2px;
   filter: grayscale(20%);
   border: 1px solid var(--border);
+  display: block;
+  position: relative;
+  z-index: 1;
 }
 
 .hero-image::before {
@@ -216,7 +220,7 @@ main {
   bottom: -12px;
   border: 1px solid var(--border-accent);
   border-radius: 2px;
-  z-index: -1;
+  z-index: 0;
 }
 
 /* ── Section layouts ── */
@@ -436,9 +440,9 @@ main {
   font-size: 0.65rem;
   letter-spacing: 0.05em;
   padding: 0.2rem 0.6rem;
-  background: var(--bg-secondary);
-  color: var(--text-secondary);
-  border: 1px solid var(--border);
+  background: rgba(201, 150, 74, 0.12);
+  color: #c9964a;
+  border: 1px solid rgba(201, 150, 74, 0.35);
 }
 
 .project-links {
