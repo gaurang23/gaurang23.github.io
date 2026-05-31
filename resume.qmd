@@ -3,7 +3,7 @@ title: "Resume"
 page-layout: full
 ---
 
-\```{=html}
+```{=html}
 <section class="section" style="padding-top: 6rem; max-width: 700px;">
   <div class="section-label">Resume</div>
   <h2>Download or view.</h2>
@@ -32,4 +32,4 @@ page-layout: full
     </svg>
   </a>
 </footer>
-\```
+```
