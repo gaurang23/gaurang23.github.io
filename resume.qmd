@@ -12,16 +12,18 @@ page-layout: full
     <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent);">LinkedIn</a>.
   </p>
   <p style="color: var(--text-muted); font-family: 'DM Mono', monospace; font-size: 0.72rem; letter-spacing: 0.05em; margin-bottom: 2rem;">
-    Last updated May 2026 · PDF preview may not load in Safari — use the download button instead.
+    Last updated May 2026
+    <br/>
+    PDF preview may not load in Safari — use the download button instead.
   </p>
-  <a href="Gaurang_Ahuja_Resume.pdf" download class="btn-primary-custom" style="margin-bottom: 3rem; display: inline-block;">↓ Download PDF</a>
+  <a href="Gaurang_Ahuja_Resume.pdf" download class="btn-primary-custom" style="margin-bottom: 3rem; display: inline-block;"><span style="font-size: 1rem; line-height: 1;">↓</span> Download PDF</a>
   <div style="margin-top: 2rem; border: 1px solid var(--border); border-radius: 2px; overflow: hidden;">
     <iframe src="Gaurang_Ahuja_Resume.pdf" width="100%" height="900px" style="border: none; display: block;"></iframe>
   </div>
 </section>
 
 <footer class="site-footer">
-  <span>© 2026 Gaurang Ahuja</span>
+  <span style="color: var(--accent);">© 2026 Gaurang Ahuja</span>
   &nbsp;<span style="color: var(--text-secondary);">|</span>&nbsp;
   <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent); text-decoration: none;" title="LinkedIn">
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="vertical-align: middle;">
