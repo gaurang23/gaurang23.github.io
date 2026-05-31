@@ -437,7 +437,7 @@ main {
   letter-spacing: 0.05em;
   padding: 0.2rem 0.6rem;
   background: var(--bg-secondary);
-  color: var(--text-muted);
+  color: var(--text-secondary);
   border: 1px solid var(--border);
 }
 
@@ -457,6 +457,9 @@ main {
   align-items: center;
   gap: 0.4rem;
   transition: color 0.2s ease;
+  border: 1px solid var(--border-accent);
+  padding: 0.35rem 0.85rem;
+  background: var(--accent-dim);
 }
 
 .project-link:hover {

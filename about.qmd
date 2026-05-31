@@ -19,7 +19,7 @@ page-layout: full
       <p>
         My engineering background is in Java microservices, CI/CD, and keeping systems running 
         under pressure. At UKG I grew from developer to lead, owning core services, 
-        modernizing infrastructure, and mentoring engineers along the way. 
+        modernizing infrastructure, and mentoring junior engineers along the way. 
         Before that, Ericsson and Apple taught me what it means to care about 
         correctness — I converted MATLAB prototypes to production C++ at Ericsson, 
         and cut Wi-Fi test runtimes by over 70% at Apple.
@@ -52,8 +52,8 @@ page-layout: full
           <div class="stat-label">Years Production Engineering</div>
         </div>
         <div class="stat-item">
-          <div class="stat-number">3</div>
-          <div class="stat-label">Companies — UKG, Ericsson, Apple</div>
+          <div class="stat-number">UKG</div>
+          <div class="stat-label">Most Recent — Lead Software Developer</div>
         </div>
         <div class="stat-item">
           <div class="stat-number">MDS</div>
@@ -91,46 +91,53 @@ page-layout: full
 <section class="section">
   <div class="section-label">Experience</div>
   <h2>Where I've been.</h2>
-  <div class="timeline">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4rem;">
 
-    <div class="timeline-item">
-      <div class="timeline-date">Sep 2025 – Jun 2026</div>
-      <div class="timeline-title">Master of Data Science — University of British Columbia</div>
-      <div class="timeline-sub">Vancouver, BC · Academic Student Representative</div>
+  <div>
+    <div class="section-label" style="margin-bottom: 1.5rem;">Work Experience</div>
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-date">Oct 2019 – Aug 2025</div>
+        <div class="timeline-title">Lead Software Developer → Software Developer</div>
+        <div class="timeline-sub">UKG · Toronto, Canada (Hybrid)</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-date">Oct 2017 – Oct 2019</div>
+        <div class="timeline-title">Radio Software Developer</div>
+        <div class="timeline-sub">Ericsson · Ottawa, Canada</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-date">Sep – Dec 2016</div>
+        <div class="timeline-title">RF System Integration Engineering Intern</div>
+        <div class="timeline-sub">Apple · Cupertino, USA</div>
+      </div>
     </div>
-
-    <div class="timeline-item">
-      <div class="timeline-date">Oct 2019 – Aug 2025</div>
-      <div class="timeline-title">Lead Software Developer → Software Developer — UKG</div>
-      <div class="timeline-sub">Toronto, Canada (Hybrid) · Promoted twice over 6 years</div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-date">Oct 2017 – Oct 2019</div>
-      <div class="timeline-title">Radio Software Developer — Ericsson</div>
-      <div class="timeline-sub">Ottawa, Canada</div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-date">Sep – Dec 2016</div>
-      <div class="timeline-title">RF System Integration Engineering Intern — Apple</div>
-      <div class="timeline-sub">Cupertino, USA</div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-date">2012 – 2017</div>
-      <div class="timeline-title">B.A.Sc. Electrical Engineering — University of Waterloo</div>
-      <div class="timeline-sub">Waterloo, ON · Dean's List · President's Scholarship · Exchange at NTU Singapore</div>
-    </div>
-
   </div>
+
+  <div>
+    <div class="section-label" style="margin-bottom: 1.5rem;">Education</div>
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-date">Sep 2025 – Jun 2026</div>
+        <div class="timeline-title">Master of Data Science</div>
+        <div class="timeline-sub">University of British Columbia</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-date">2012 – 2017</div>
+        <div class="timeline-title">B.A.Sc. Electrical Engineering (Co-op)</div>
+        <div class="timeline-sub">University of Waterloo · Dean's List · President's Scholarship</div>
+      </div>
+    </div>
+  </div>
+
+</div>
 </section>
 
 <footer class="site-footer">
   <span>© 2026 Gaurang Ahuja</span>
-  &nbsp;·&nbsp;
+  &nbsp;<span style="color: var(--text-secondary);">|</span>&nbsp;
   <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent); text-decoration: none;">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;<span style="color: var(--text-secondary);">|</span>&nbsp;
   <a href="https://github.com/gaurang23" style="color: var(--accent); text-decoration: none;">GitHub</a>
 </footer>
 ```

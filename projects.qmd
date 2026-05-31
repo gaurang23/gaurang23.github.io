@@ -58,7 +58,7 @@ page-layout: full
         data wrangling through to deployment.
       </p>
       <div class="project-stack">
-        <span class="stack-tag">R</span>
+        <span class="stack-tag">Python</span>
         <span class="stack-tag">Shiny</span>
       </div>
       <div class="project-links">
@@ -88,7 +88,7 @@ page-layout: full
     </div>
 
     <div class="project-card">
-      <div class="project-badge">Computer Vision · 2025</div>
+      <div class="project-badge">Computer Vision · 2017</div>
       <div class="project-title">Underwater Rover Object Detection</div>
       <p class="project-desc">
         Real-time computer vision pipeline for an underwater rover 
@@ -109,9 +109,9 @@ page-layout: full
 
 <footer class="site-footer">
   <span>© 2026 Gaurang Ahuja</span>
-  &nbsp;·&nbsp;
+  &nbsp;<span style="color: var(--text-secondary);">|</span>&nbsp;
   <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent); text-decoration: none;">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;<span style="color: var(--text-secondary);">|</span>&nbsp;
   <a href="https://github.com/gaurang23" style="color: var(--accent); text-decoration: none;">GitHub</a>
 </footer>
 ```

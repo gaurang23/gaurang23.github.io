@@ -6,7 +6,6 @@ page-layout: full
 ```{=html}
 <section class="hero">
   <div class="hero-text">
-    <div class="hero-eyebrow">Based in Vancouver, BC</div>
     <h1>Gaurang<br><span>Ahuja.</span></h1>
     <p class="hero-subtitle">
       Software engineer with 7+ years of production experience, 
@@ -38,17 +37,17 @@ page-layout: full
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2rem;">
     <div style="border-top: 2px solid var(--accent); padding-top: 1.5rem;">
       <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: var(--accent); margin-bottom: 0.5rem;">7+</div>
-      <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 0.75rem;">Years in Production SWE</div>
+      <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-secondary); margin-bottom: 0.75rem;">Years in Production SWE</div>
       <div style="font-size: 0.9rem; color: var(--text-secondary);">From developer to lead at UKG, shipping Java microservices at scale.</div>
     </div>
     <div style="border-top: 2px solid var(--accent); padding-top: 1.5rem;">
       <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: var(--accent); margin-bottom: 0.5rem;">1.7M+</div>
-      <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 0.75rem;">Records Processed</div>
+      <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-secondary); margin-bottom: 0.75rem;">Records Processed</div>
       <div style="font-size: 0.9rem; color: var(--text-secondary);">ETS capstone processing PISA data across 80+ countries for education equity research.</div>
     </div>
     <div style="border-top: 2px solid var(--accent); padding-top: 1.5rem;">
       <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: var(--accent); margin-bottom: 0.5rem;">UBC</div>
-      <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 0.75rem;">Master of Data Science</div>
+      <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-secondary); margin-bottom: 0.75rem;">Master of Data Science</div>
       <div style="font-size: 0.9rem; color: var(--text-secondary);">Deep learning, NLP, statistical inference, and reproducible ML pipelines.</div>
     </div>
   </div>
@@ -110,9 +109,9 @@ page-layout: full
 
 <footer class="site-footer">
   <span>© 2026 Gaurang Ahuja</span>
-  &nbsp;·&nbsp;
+  &nbsp;<span style="color: var(--text-secondary);">|</span>&nbsp;
   <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent); text-decoration: none;">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;<span style="color: var(--text-secondary);">|</span>&nbsp;
   <a href="https://github.com/gaurang23" style="color: var(--accent); text-decoration: none;">GitHub</a>
 </footer>
 ```
