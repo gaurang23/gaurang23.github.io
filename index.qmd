@@ -8,9 +8,8 @@ page-layout: full
   <div class="hero-text">
     <h1>Gaurang<br><span>Ahuja</span></h1>
     <p class="hero-subtitle">
-      Software engineer with 7+ years of production experience, 
-      now completing a Master of Data Science at UBC. 
-      I build things that work — from Java microservices to LLM-powered search pipelines.
+      Software engineer turned data scientist.
+      7+ years of work experience, now completing a Master of Data Science at UBC to move into AI and ML.
     </p>
     <div class="hero-tags">
       <span class="tag">ML / AI Engineering</span>
@@ -43,12 +42,12 @@ page-layout: full
     <div style="border-top: 2px solid var(--accent); padding-top: 1.5rem;">
       <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: var(--accent); margin-bottom: 0.5rem;">1.7M+</div>
       <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-secondary); margin-bottom: 0.75rem;">Records Processed</div>
-      <div style="font-size: 0.9rem; color: var(--text-secondary);">ETS capstone processing PISA data across 80+ countries for education equity research.</div>
+      <div style="font-size: 0.9rem; color: var(--text-secondary);">Partnered with ETS to rethink how PISA data across 80+ countries gets reported to education decision makers.</div>
     </div>
     <div style="border-top: 2px solid var(--accent); padding-top: 1.5rem;">
       <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: var(--accent); margin-bottom: 0.5rem;">UBC</div>
       <div style="font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-secondary); margin-bottom: 0.75rem;">Master of Data Science</div>
-      <div style="font-size: 0.9rem; color: var(--text-secondary);">Deep learning, NLP, statistical inference, and reproducible ML pipelines.</div>
+      <div style="font-size: 0.9rem; color: var(--text-secondary);">Graduate training in ML, statistical modelling and data engineering — with real projects to show for it.</div>
     </div>
   </div>
 </section>
