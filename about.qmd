@@ -12,14 +12,14 @@ page-layout: full
     <div class="about-text">
       <p>
         I'm Gaurang — pronounced <em style="color: var(--accent);">Gaw-rung</em>. 
-        I spent seven years building production software, and somewhere along the way 
-        I got genuinely curious about what happens when engineering meets machine learning. 
+        I spent seven years building production software, and at some point I got 
+        genuinely curious about what happens when engineering meets machine learning. 
         So I decided to find out properly, which is how I ended up at UBC doing a Master of Data Science.
       </p>
       <p>
         My engineering background is in Java microservices, CI/CD, and keeping systems running 
         under pressure. At UKG I grew from developer to lead, owning core services, 
-        modernizing infrastructure, and mentoring junior engineers along the way. 
+        modernizing infrastructure, and mentoring junior engineers through the process. 
         Before that, Ericsson and Apple put me in environments where the margin for 
         error was essentially zero. At Ericsson I worked close to hardware, converting 
         MATLAB prototypes into production C++ for radio firmware deployed at live customer 
@@ -34,11 +34,11 @@ page-layout: full
         look good in a notebook.
       </p>
       <p>
-        Right now I'm working on a capstone project with 
-        <strong>Educational Testing Service (ETS)</strong>, building an equity-focused 
-        education dashboard that processes over 1.7 million student records across 
+        For my capstone project, I partnered with  
+        <strong>Educational Testing Service (ETS)</strong>, to build an equity-focused 
+        education dashboard processing over 1.7 million student records across 
         80+ countries. It's the kind of work where the technical decisions 
-        actually matter for how policymakers understand global education outcomes.
+        directly shape how policymakers understand global education outcomes.
       </p>
       <p style="color: var(--text-secondary); margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
         I'm open to ML/AI engineering and data science roles — 
@@ -59,11 +59,11 @@ page-layout: full
         </div>
         <div class="stat-item">
           <div class="stat-number">MDS</div>
-          <div class="stat-label">UBC Master of Data Science, 2026</div>
+          <div class="stat-label">UBC Master of Data Science, UBC, 2026</div>
         </div>
         <div class="stat-item">
           <div class="stat-number">B.A.Sc</div>
-          <div class="stat-label">Electrical Engineering, Waterloo</div>
+          <div class="stat-label">Electrical Engineering, Waterloo, 2017</div>
         </div>
       </div>
 
