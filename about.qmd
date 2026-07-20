@@ -11,24 +11,24 @@ page-layout: full
   <div class="about-grid">
     <div class="about-text">
       <p>
-        I'm Gaurang — pronounced <em style="color: var(--accent);">Gaw-rung</em>. 
-        I spent seven years building production software, and at some point I got 
-        genuinely curious about what happens when engineering meets machine learning. 
+        I'm Gaurang - pronounced <em style="color: var(--accent);">Gaw-rung</em>. 
+        I spent seven years building production software, and at some point the ML side  
+        of things started pulling my attention in a way that felt worth following. 
         So I decided to find out properly, which is how I ended up at UBC doing a Master of Data Science.
       </p>
       <p>
         My engineering background is in Java microservices, CI/CD, and keeping systems running 
-        under pressure. At UKG I grew from developer to lead, owning core services, 
+        under pressure. At UKG I progressed from developer to lead, owning core services, 
         modernizing infrastructure, and mentoring junior engineers through the process. 
         Before that, Ericsson and Apple put me in environments where the margin for 
         error was essentially zero. At Ericsson I worked close to hardware, converting 
         MATLAB prototypes into production C++ for radio firmware deployed at live customer 
         sites. At Apple I optimized chipset drivers and cut automated test runtimes from 65 seconds 
-        to 17 — small numbers with outsized impact on the team's velocity.
+        to 17.
       </p>
       <p>
         What MDS has added is the ability to think statistically and work across the 
-        full ML stack — from wrangling messy data and training models to 
+        full ML stack - from wrangling messy data and training models to 
         building reproducible pipelines and deploying interactive tools. 
         I care about models that work in production, not just ones that 
         look good in a notebook.
@@ -37,11 +37,11 @@ page-layout: full
         For my capstone project, I partnered with  
         <strong>Educational Testing Service (ETS)</strong>, to build an equity-focused 
         education dashboard processing over 1.7 million student records across 
-        80+ countries. It's the kind of work where the technical decisions 
-        directly shape how policymakers understand global education outcomes.
+        80+ countries. It was a good reminder that data pipelines are not neutral: 
+        what one chooses to show, and how, changes what people decide.
       </p>
       <p style="color: var(--text-secondary); margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
-        I'm open to ML/AI engineering and data science roles — 
+        I'm open to ML/AI engineering and data science roles -  
         hybrid or remote. If you're working on something interesting, 
         <a href="https://www.linkedin.com/in/gaurang-ahuja/" style="color: var(--accent);">let's talk</a>.
       </p>
