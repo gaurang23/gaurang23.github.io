@@ -32,7 +32,7 @@ page-layout: full
 
 <section class="section">
   <div class="section-label">Background</div>
-  <h2>Engineering depth,<br>data science direction.</h2>
+  <h2>Built on engineering. Pointed at ML.</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2rem;">
     <div style="border-top: 2px solid var(--accent); padding-top: 1.5rem;">
       <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 900; color: var(--accent); margin-bottom: 0.5rem;">7+</div>

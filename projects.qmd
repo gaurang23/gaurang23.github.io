@@ -11,7 +11,7 @@ page-layout: full
   <div class="projects-grid">
 
     <div class="project-card">
-      <div class="project-badge">Capstone · In Progress · 2026</div>
+      <div class="project-badge">Data Science · Dashboard · 2026</div>
       <div class="project-title">ETS Education Equity Dashboard</div>
       <p class="project-desc">
         Interactive data dashboard built in partnership with Educational Testing Service (ETS), 
@@ -22,7 +22,7 @@ page-layout: full
       <div class="project-stack">
         <span class="stack-tag">Python</span>
         <span class="stack-tag">Streamlit</span>
-        <span class="stack-tag">Parquet</span>
+        <span class="stack-tag">DuckDB</span>
       </div>
       <div class="project-links">
         <a href="https://019e4677-6a04-aa54-3548-1eae51bbdb21.share.connect.posit.cloud/" class="project-link" target="_blank"><span style="font-size: 1rem; line-height: 1;">↗</span> Live App</a>
@@ -49,7 +49,7 @@ page-layout: full
     </div>
 
     <div class="project-card">
-      <div class="project-badge">Data Science · 2025</div>
+      <div class="project-badge">Shiny · 2025</div>
       <div class="project-title">Supply Chain Analytics Dashboard</div>
       <p class="project-desc">
         Interactive analytics dashboard built on a Kaggle supply chain dataset from 
@@ -74,7 +74,7 @@ page-layout: full
         Data validation Python package published to TestPyPI. 
         Includes a complete CI/CD workflow via GitHub Actions automating 
         unit testing, documentation generation, and publishing pipelines.
-        Published at: test.pypi.org/project/ez_df_data_validator
+        Published at: <span style="font-size: 0.85rem;">test.pypi.org/project/ez_df_data_validator</span>
       </p>
       <div class="project-stack">
         <span class="stack-tag">Python</span>

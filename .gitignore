@@ -211,3 +211,6 @@ __marimo__/
 .Rproj.user
 .Rhistory
 .RData
+*_cache/
+*_files/
+/.quarto-rstudio-preview/

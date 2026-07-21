@@ -365,7 +365,7 @@ main {
   padding: 2rem;
   transition: border-color 0.2s ease, transform 0.2s ease;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .project-card::before {
